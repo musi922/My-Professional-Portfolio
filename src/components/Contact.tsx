@@ -135,7 +135,7 @@ const [subject, setSubject] = \n"${subject}${
   }✨";
 const [message, setMessage] = 
 \`Hello, It's nice to meet you! 👋\n
-Thanks for this message i reach to you soon:\n
+Thanks for this message i will reach to you soon:\n
 "${wordWrap(message, 40, " ")}${
     lastUpdatedField === "message" ? (cursorBlink ? "|" : " ") : ""
   }"\n

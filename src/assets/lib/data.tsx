@@ -305,13 +305,13 @@ export const navLinks = [
 ] as const;
 
 export const FooterLinks = [
-  { de: "Impressum", en: "Imprint", hash: "#imprint", data: <Imprint /> },
+  { de: "Download", en: "Download", hash: "#imprint", data: <Imprint /> },
   { de: "Datenschutz", en: "Privacy", hash: "#privacy", data: <Privacy /> },
 ] as const;
 
 export const sideBarRightMail = {
-  link: "mailto:myemail@com",
-  text: "myemail@com",
+  link: "https://github.com/musi922",
+  text: "Richard",
 } as const;
 
 export const sideBarLeftSocials = [
