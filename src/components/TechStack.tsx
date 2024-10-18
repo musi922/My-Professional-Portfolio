@@ -26,7 +26,7 @@ const TechStack: React.FC = () => {
   return (
     <React.Fragment>
       <section
-        className="relative tech-stack max-lg:p-16 "
+        className="relative tech-stack  "
         id="skills"
         ref={ref}
       >
@@ -43,7 +43,7 @@ const TechStack: React.FC = () => {
               opacity: opacityProgess,
             }}
           >
-            <p className="font-black mb-6">
+            <p className="font-black">
               <span className="text-[--orange]">&lt;</span>Skills
               <span className="text-[--orange]">/&gt;</span>
             </p>

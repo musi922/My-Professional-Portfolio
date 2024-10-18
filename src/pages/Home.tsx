@@ -51,7 +51,7 @@ const Home: React.FC = () => {
               thickness="0.25rem"
               direction="inner-right-to-middle"
               color="lightblue"
-              height="middle"
+              height="small"
               dividerStyle="solid"
             />
 
@@ -60,7 +60,7 @@ const Home: React.FC = () => {
               thickness="0.25rem"
               direction="middle"
               color="lightblue"
-              height="extraLarge"
+              height="small"
               dividerStyle="solid"
             />
             <ProjectSlider />
@@ -74,7 +74,7 @@ const Home: React.FC = () => {
                 thickness="0.25rem"
                 direction="middle-to-inner-left"
                 color="lightblue"
-                height="middle"
+                height="small"
                 dividerStyle="solid"
               />
 
