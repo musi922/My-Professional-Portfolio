@@ -242,7 +242,7 @@ export const navLinks = [
 ] as const;
 
 export const FooterLinks = [
-  { de: "Download", en: "Download", hash: "#imprint", data: <Imprint /> },
+  { de: `&#174`, en: `richard&#174protected`, hash: "#imprint", data: <Imprint /> },
   { de: "Datenschutz", en: "Privacy", hash: "#privacy", data: <Privacy /> },
 ] as const;
 

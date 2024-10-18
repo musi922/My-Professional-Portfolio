@@ -9,11 +9,11 @@ const Imprint = () => {
     <React.Fragment>
       {language === "DE" ? (
         <article className="flex flex-col gap-6 max-w-[70vw]">
-          <h1>Impressum</h1>
+          <h1>Protected by Richard</h1>
         </article>
       ) : (
         <article className="flex flex-col gap-6 max-w-[70vw]">
-          <h1>Site Notice</h1>
+          <h1>Protected by Richard</h1>
         </article>
       )}
     </React.Fragment>
