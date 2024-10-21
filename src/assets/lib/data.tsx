@@ -312,7 +312,7 @@ export const aboutMeData = {
     {
       title: "The Joy of Discovery as a Life Motto",
       description:
-        "My journey as a web developer is only a part of my life path. I live by the motto that the adventure only begins when you leave the familiar behind. Discovering new places and cultures is my form of creative inspiration.",
+        "My journey as a web developer is only a part of my life path. I live by the motto that the adventure only begins when you leave the familiar behind. Discovering new places and cultures is my form of creative inspiration",
       icon: travelicon,
     },
   ],
